@@ -1,0 +1,10 @@
+import os
+
+TOKEN = os.getenv("BOT_TOKEN")
+ADMIN_ID = int(os.getenv("ADMIN_ID"))
+
+PRICE = "15 zł"
+MAX_USERS = 5
+
+BLIK_NUMBER = "123 456 789"
+BANK_ACCOUNT = "12 3456 7890 1234 5678 9012 3456"
